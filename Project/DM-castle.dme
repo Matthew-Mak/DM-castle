@@ -1,0 +1,15 @@
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+// BEGIN_INCLUDE
+#include "Castle.dmm"
+#include "Code\area.dm"
+#include "Code\mob.dm"
+#include "Code\obj.dm"
+#include "Code\turf.dm"
+#include "Code\world.dm"
+// END_INCLUDE
